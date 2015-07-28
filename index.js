@@ -12,7 +12,7 @@ module.exports = function (left, right, opts) {
 	var valign = opts.valign || 'top';
 	var voffset = opts.voffset || 0;
 	var separator = opts.separator || '';
-	var paddingLeft = opts.paddingLeft || 1;
+	var paddingLeft = opts.paddingLeft || 0;
 	var paddingRight = opts.paddingRight || 0;
 
 	var leftLines = left.split('\n');
