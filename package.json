@@ -19,7 +19,7 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "join", "text", "paste", "columns", "join-text"
   ],
   "dependencies": {
     "longest-line": "0.0.2",
