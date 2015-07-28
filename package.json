@@ -1,0 +1,32 @@
+{
+  "name": "join-text",
+  "version": "0.0.0",
+  "description": "Join two texts into columns.",
+  "license": "MIT",
+  "repository": "danilosampaio/join-text",
+  "author": {
+    "name": "Danilo Sampaio",
+    "email": "danilo.sampaio@gmail.com",
+    "url": "github.org/danilosampaio"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "longest-line": "0.0.2",
+    "repeat-string": "^1.5.2",
+    "string-length": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
